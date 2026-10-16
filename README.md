@@ -1,1 +1,1 @@
-# Tripura_Assembly_Election_Analysis_2018_vs_2023
+# Tripura_Assembly_Election_Analysis
